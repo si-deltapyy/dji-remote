@@ -1,0 +1,8 @@
+{
+  "name": "dji-remote",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "8f3b584d"
+}
